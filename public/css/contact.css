@@ -1,0 +1,55 @@
+@charset "UTF-8";
+body {
+    color: #333;
+}
+
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+    padding: 60px 0;
+    /* background-color: crimson; */
+
+
+}
+
+.form-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+p {
+    /* text-align: center; */
+}
+
+input,textarea {
+    /* width: 300px; */
+    /* margin: auto; */
+    border: 1px solid coral;
+    /* background-color: coral; */
+}
+
+.form {
+    width: 30%;
+    margin: 0 auto;
+    border: 1px solid coral;
+    padding: 50px;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+    /* background-color: cornflowerblue; */
+}
+
+th {
+    background-color: rgb(196, 188, 188);
+}
+
+table,th,td {
+    border: solid 1px;
+    margin: 0 auto;
+}
+
+th,td {
+    border: solid 1px;
+
+}
